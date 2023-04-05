@@ -1,3 +1,5 @@
+links for manual
+
 https://disk.yandex.ru/d/BgMPa8TYd2I0wA
 
 https://cloud.mail.ru/public/XjBM/sAyKQ6g1t
