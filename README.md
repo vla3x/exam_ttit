@@ -1,4 +1,4 @@
-links for manual
+links for manual (author of the manual: https://github.com/Fistim/DemoExam)
 
 https://disk.yandex.ru/d/BgMPa8TYd2I0wA
 
