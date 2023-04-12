@@ -1,5 +1,7 @@
 links for manual (author of the manual: https://github.com/Fistim/DemoExam)
 
+https://github.com/EvilQuill/demka
+
 https://disk.yandex.ru/d/BgMPa8TYd2I0wA
 
 https://cloud.mail.ru/public/XjBM/sAyKQ6g1t
